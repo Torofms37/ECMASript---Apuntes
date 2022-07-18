@@ -1,0 +1,3 @@
+Vivimos en el mundo de las muchas palabras y pocas acciones. Soy de pocas palabras, así que espera...
+
+Este repositorio contiene conceptos y ejercicios de Js es6 al es12.
